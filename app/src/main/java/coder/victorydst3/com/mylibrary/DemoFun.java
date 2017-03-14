@@ -10,6 +10,6 @@ public final class DemoFun {
     }
 
     public static String getString() {
-        return "String From Library";
+        return "String From Library After Edit";
     }
 }
